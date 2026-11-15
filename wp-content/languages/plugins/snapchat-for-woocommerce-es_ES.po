@@ -1,0 +1,132 @@
+# Translation of Plugins - Snapchat for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Snapchat for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-11-06 09:17:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Snapchat for WooCommerce - Stable (latest release)\n"
+
+#: includes/Tracking/ConversionTrackingService.php:326
+msgid "Snapchat conversion user agent"
+msgstr "Agente de usuario de conversión de Snapchat"
+
+#: includes/Tracking/ConversionTrackingService.php:325
+msgid "Snapchat conversion IP address"
+msgstr "Dirección IP de conversión de Snapchat"
+
+#: includes/SandboxMode.php:216
+msgid "Sandbox Ad Account"
+msgstr "Cuenta publicitaria del entorno de pruebas"
+
+#: includes/SandboxMode.php:236
+msgid "Account connection actions are disabled in sandbox mode."
+msgstr "Las acciones de conexión de cuentas están desactivadas en el modo de entorno de pruebas."
+
+#: includes/SandboxMode.php:214
+msgid "Sandbox Organization"
+msgstr "Organización del entorno de pruebas"
+
+#: includes/Connection/WcsClient.php:162
+msgid "Remote requests are disabled in sandbox mode."
+msgstr "Las solicitudes remotas están desactivadas en el modo de entorno de pruebas."
+
+#: includes/SandboxMode.php:204
+msgid "Sandbox Merchant"
+msgstr "Vendedor del entorno de pruebas"
+
+#: includes/API/AdPartner/CatalogApi.php:115
+msgid "Catalog ID is required."
+msgstr "Se requiere el ID del catálogo."
+
+#. translators: %1$s and %2$s are placeholders for the link to the
+#. documentation.
+#: includes/Admin/Notices.php:52
+msgid "You currently have two Snapchat plugins installed. Having both plugins active can cause reporting issues. Please uninstall the 'Snapchat Pixel for WooCommerce' (Legacy Plugin) by following the steps %1$shere%2$s."
+msgstr "Actualmente tienes dos plugins de Snapchat instalados. Tener ambos plugins activos puede causar problemas en los informes. Desinstala el plugin «Snapchat Pixel for WooCommerce» (heredado) siguiendo los pasos que se indican %1$saquí%2$s."
+
+#: includes/MultichannelMarketing/SnapchatChannel.php:61
+msgid "Sync your product catalog with Snapchat to promote your products."
+msgstr "Sincroniza tu catálogo de productos con Snapchat para promocionar tus productos."
+
+#: includes/Connection/WcsClient.php:234
+msgid "Request failed"
+msgstr "La solicitud ha fallado"
+
+#: includes/Connection/JetpackAuthenticator.php:83
+msgid "Invalid Jetpack token format."
+msgstr "Formato de token de Jetpack no válido."
+
+#: includes/Connection/JetpackAuthenticator.php:78
+msgid "Jetpack token is not available."
+msgstr "El token de Jetpack no está disponible."
+
+#: includes/API/Site/Controllers/SnapchatBusinessExtensionController.php:293
+msgid "Invalid response from WCS. OAuth URL missing."
+msgstr "Respuesta no válida de WCS. Falta la URL de OAuth."
+
+#: includes/API/Site/Controllers/JetpackAccountController.php:196
+msgid "Successfully disconnected."
+msgstr "Desconectado correctamente."
+
+#: includes/API/Site/Controllers/JetpackAccountController.php:173
+msgid "Indicates the next page name mapped to the redirect URL when back from Jetpack authorization."
+msgstr "Indica el nombre de la página siguiente asignado a la URL de redirección al volver de la autorización de Jetpack."
+
+#: includes/API/Site/Controllers/JetpackAccountController.php:156
+msgid "The URL for making a connection to Jetpack (wordpress.com)."
+msgstr "La URL para establecer una conexión con Jetpack (wordpress.com)."
+
+#: includes/API/AdPartner/FeedApi.php:60
+msgid "Catalog ID not found."
+msgstr "ID del catálogo no encontrado."
+
+#: includes/API/AdPartner/CatalogApi.php:69
+msgid "Pixel ID not found."
+msgstr "ID del píxel no encontrado."
+
+#: includes/API/AdPartner/CatalogApi.php:60
+msgid "Organization ID not found."
+msgstr "ID de la organización no encontrado."
+
+#: includes/Admin/ProductMeta/ProductMetaFields.php:110
+msgid "Include this product in Snapchat's product catalog."
+msgstr "Incluye este producto en el catálogo de productos de Snapchat."
+
+#: includes/Admin/ProductMeta/ProductMetaFields.php:103
+msgid "Catalog Item"
+msgstr "Elemento del catálogo"
+
+#: includes/Admin/Onboarding.php:46
+msgid "Snapchat Setup Wizard"
+msgstr "Asistente de configuración de Snapchat"
+
+#: includes/Admin/Menu.php:57
+#: includes/Admin/ProductMeta/ProductMetaFields.php:72
+#: includes/MultichannelMarketing/SnapchatChannel.php:50 js/build/commons.js:1
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#. Author URI of the plugin
+#: snapchat-for-woocommerce.php
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Author of the plugin
+#: snapchat-for-woocommerce.php js/build/index.js:1
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Description of the plugin
+#: snapchat-for-woocommerce.php
+msgid "Seamlessly integrates your WooCommerce store with Snapchat's powerful advertising platform, enabling you to reach millions of potential customers through engaging visual ads."
+msgstr "Integra sin problemas tu tienda de WooCommerce con la potente plataforma publicitaria de Snapchat, lo que te permite llegar a millones de clientes potenciales a través de atractivos anuncios visuales."
+
+#. Plugin Name of the plugin
+#: snapchat-for-woocommerce.php js/build/index.js:1
+msgid "Snapchat for WooCommerce"
+msgstr "Snapchat for WooCommerce"
